@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Education/selenium/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/common-lang3.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/Education/selenium/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/anude/Downloads/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anude/Downloads/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anude/Downloads/java-client-4.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

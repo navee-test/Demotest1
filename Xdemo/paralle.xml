@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+		<suite name="suite" parallel="tests" thread-count="2">
+		   <test name="tests1">
+		       <parameter name="browser" value="chrome" />  
+		       <parameter name="browPlatform" value="Windows 10" />
+		       <parameter name="browVersion" value="latest" />
+		       <classes>
+		           <class name="com.demos1.Sauceslabtest" />
+		       </classes>
+		   </test>
+		   <test name="tests12">
+		       <parameter name="browser" value="ff" />
+		       <parameter name="browPlatform" value="Windows 10" />
+		       <parameter name="browVersion" value="latest" /> 
+		       <classes>
+		           <class name="com.demos1.Sauceslabtest" />
+		       </classes>
+		   </test>
+		</suite>
