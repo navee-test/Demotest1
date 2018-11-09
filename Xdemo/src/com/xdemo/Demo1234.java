@@ -17,6 +17,7 @@ public class Demo1234 {
 		max = temp;
 		System.out.println(max);
 		System.out.println("git demo");
+			System.out.println("git demo");
 		}
 		b = b/10;
 		}
