@@ -16,6 +16,7 @@ public class Demo1234 {
 		else if(temp > max){
 		max = temp;
 		System.out.println(max);
+		System.out.println("git demo");
 		}
 		b = b/10;
 		}
